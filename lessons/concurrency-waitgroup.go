@@ -30,3 +30,10 @@ func main() {
 	wg.Wait()
 }
 
+// Output:
+// Hello World
+// Three
+// One
+// Two
+
+Program exited.

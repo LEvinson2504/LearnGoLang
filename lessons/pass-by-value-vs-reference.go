@@ -38,3 +38,13 @@ func main() {
 	}()
 }
 
+// Output
+// Pass by value
+// {levinson 23}
+// {levinson 24}
+// Pass by reference
+// &{levinson 24}
+// 0xc000100020
+// &{levinson 24}
+
+// Program exited.
